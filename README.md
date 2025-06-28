@@ -1,5 +1,5 @@
 # 🏁 Mario Kart.JS — Desafio do Felipão no bootcamp da dio para desenvolvimento mobile
-> 🎮 Projeto criado com o objetivo de me ajudar a **relembrar e praticar conceitos essenciais de JavaScript**, como variáveis, objetos, estruturas condicionais, funções assíncronas e simulação de fluxo de jogo.
+> 🎮 Projeto criado com o objetivo de  **relembrar e praticar conceitos essenciais de JavaScript**, como variáveis, objetos, estruturas condicionais, funções assíncronas e simulação de fluxo de jogo.
 
 ## 📚 Aprendizados
 Durante o desenvolvimento deste projeto, revisei e pratiquei:
